@@ -1,0 +1,66 @@
+{
+  "kind": "singleType",
+  "collectionName": "profiles",
+  "info": {
+    "singularName": "profile",
+    "pluralName": "profiles",
+    "displayName": "Profile"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "firstname": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "briefDescription": {
+      "type": "text"
+    },
+    "details": {
+      "type": "text"
+    },
+    "age": {
+      "type": "integer"
+    },
+    "email": {
+      "type": "email"
+    },
+    "companyEmail": {
+      "type": "email"
+    },
+    "residence": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "skype": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "whatsapp": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    }
+  }
+}
